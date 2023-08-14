@@ -1,6 +1,6 @@
 # <p align="center"> Meu Projeto Incrível </p>
 <p align="center">
-  <img src="https://discord.com/channels/1002426335597166612/1002426335597166615/1140605788096831518" alt="Logo" width="200" height="200">
+  <img src="https://media.discordapp.net/attachments/1002426335597166615/1140605787899707452/download.png" alt="Logo" width="200" height="200">
 </p>
 
 ## Descrição
@@ -13,11 +13,10 @@ Com essa funcionalidade, os usuários podem acompanhar suas atividades de digita
 
 ## Recursos Principais
 - [x] Este código cria um programa que rastreia a digitação do teclado usando a biblioteca pynput.
-- [ ] Ele salva o texto digitado em um arquivo chamado "Data.txt". Além disso, se não houver
-- [ ] interações por 3 segundos, ele pula para uma nova linha no arquivo. Isso ajuda a separar
-- [ ] diferentes segmentos de texto para melhor legibilidade.
-- [ ] 
-- [ ] Funcionalidade 2 (em desenvolvimento)
+- [x] Ele salva o texto digitado em um arquivo chamado "Data.txt". Além disso, se não houver
+- [x] interações por 3 segundos, ele pula para uma nova linha no arquivo. Isso ajuda a separar
+- [x] diferentes segmentos de texto para melhor legibilidade.
+
 
 
 
