@@ -18,8 +18,6 @@ def save_typed_info(key):
     last_interaction_time = time.time()
 
 # Função para esperar 3 segundos e pular uma nova linha se não houver interações
-
-
 def wait_and_newline():
     global last_interaction_time
     while True:
