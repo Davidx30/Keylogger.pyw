@@ -1,6 +1,6 @@
 # <p align="center"> Projeto Keymon </p>
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1002426335597166615/1140605787899707452/download.png" alt="Logo" width="500" height="200">
+  <img src="https://media.discordapp.net/attachments/1002426335597166615/1140605787899707452/download.png" alt="Logo" width="800" height="200">
 </p>
 
 ## Descrição
