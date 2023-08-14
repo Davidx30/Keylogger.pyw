@@ -1,4 +1,4 @@
-# <p align="center"> Meu Projeto Incrível </p>
+# <p align="center"> Projeto Keymon </p>
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1002426335597166615/1140605787899707452/download.png" alt="Logo" width="200" height="200">
 </p>
@@ -26,7 +26,7 @@ Com essa funcionalidade, os usuários podem acompanhar suas atividades de digita
 3. Instale as dependências: `pip install -r requirements.txt`
 
 ## Uso
-Execute o programa utilizando o comando: `python main.py`
+Execute o programa utilizando o comando: `python main.pyw`
 
 
 
