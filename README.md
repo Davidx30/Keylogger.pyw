@@ -21,7 +21,7 @@ Com essa funcionalidade, os usuários podem acompanhar suas atividades de digita
 
 
 ## Instalação
-1. Clone este repositório: `git clone https://github.com/Davidx30/Keymon.git`
+1. Clone este repositório: `git clone https://github.com/Davidx30/Keylogger.pyw.git`
 2. Navegue para o diretório do projeto: `cd KeyMon`
 3. Instale as dependências: `pip install -r requirements.txt`
 
