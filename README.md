@@ -12,10 +12,10 @@ A aplicação utiliza a biblioteca pynput para rastrear a digitação e a biblio
 Com essa funcionalidade, os usuários podem acompanhar suas atividades de digitação e manter seus registros organizados de forma eficiente."
 
 ## Recursos Principais
-- [x] Este código cria um programa que rastreia a digitação do teclado usando a biblioteca pynput.
-- [x] Ele salva o texto digitado em um arquivo chamado "Data.txt". Além disso, se não houver
-- [x] interações por 3 segundos, ele pula para uma nova linha no arquivo. Isso ajuda a separar
-- [x] diferentes segmentos de texto para melhor legibilidade.
+Este código cria um programa que rastreia a digitação do teclado usando a biblioteca pynput.
+Ele salva o texto digitado em um arquivo chamado "Data.txt". Além disso, se não houver
+interações por 3 segundos, ele pula para uma nova linha no arquivo. Isso ajuda a separar
+diferentes segmentos de texto para melhor legibilidade.
 
 
 
