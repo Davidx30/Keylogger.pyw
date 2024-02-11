@@ -30,11 +30,4 @@ Execute o programa utilizando o comando: `python main.pyw`
 
 
 
-## Licença
-Este projeto está sob a licença [MIT](LICENSE).
 
----
-
-<p align="center">
-Feito com :heart: por Davidx30.
-</p>
